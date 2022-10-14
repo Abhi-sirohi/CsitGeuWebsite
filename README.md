@@ -1,2 +1,2 @@
-# CsitGeuWebsite
+# CsitWebsite
 CSIT GEU website
